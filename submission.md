@@ -155,3 +155,8 @@ existing update path (re-rating a song you already rated) also flows through thi
 `add_to_playlist()` behavior is unchanged. Since there's no notification test, I re-read the route and
 the `create_notification` helper to confirm the arguments match its signature, and I ran the full suite
 (13 tests) to confirm nothing else regressed.
+
+
+
+<img width="981" height="135" alt="Screenshot 2026-07-07 at 12 12 19 PM" src="https://github.com/user-attachments/assets/403a0f36-8c05-4ad4-9a2d-e4ad9bd35b79" />
+
